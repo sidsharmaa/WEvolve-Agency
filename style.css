@@ -70,6 +70,7 @@ hr{
   justify-content: space-between;
   padding-top: 100px;
   background-color: #FFFDD0;
+  width: 100%
 }
 
 .au_text{
@@ -265,6 +266,7 @@ p{
   background-color: #FFFDD0;
   height: 150px;
   padding-bottom: 0px;
+  width: 100%
 }
 .div4 h5 {
   display: flex;
